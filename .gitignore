@@ -1,0 +1,7 @@
+#Everything
+*
+
+#Except for the component
+!*/
+!holdable_button.dart
+!.gitignore
